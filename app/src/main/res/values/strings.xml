@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LHCE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="webuntis">Stonnepläng</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone_number_text">Tél.</string>
+    <string name="phone_number">55 71 55 335</string>
+    <string name="fax_number_text">Fax</string>
+    <string name="fax_number">57 24 04</string>
+    <string name="LHCE_phone_number_text">LHCE Site Tél.</string>
+    <string name="LHCE_phone_number">55 71 55 355</string>
+    <string name="LHCE_fax_number_text">LHCE Site Fax</string>
+    <string name="LHCE_fax_number">57 24 04</string>
+    <string name="LHCE_address">LHCE Site Adresse</string>
+    <string name="LHCE_street_number">2, rue Général Patton</string>
+    <string name="LHCE_zip_code_location">L-4277 Esch-sur-Alzette</string>
+    <string name="VH_phone_number_text">Victor Hugo Tél.</string>
+    <string name="VH_phone_number">55 71 55</string>
+    <string name="VH_address">Victor Hugo Adresse</string>
+    <string name="VH_street_number">91, rue Victor Hugo</string>
+    <string name="VH_zip_code_location">L-4141 Esch-sur-Alzette</string>
+    <string name="developer_label">Developer</string>
+    <string name="app_autor">Colin Ries</string>
+    <string name="development_assistance">Development Assistance</string>
+    <string name="development_assistance_name">Patrick Schroeder</string>
+    <string name="secretariat_email">secretariat@lhce.lu</string>
+    <string name="secretariat_email_label">Email</string>
+    <string name="contact">Kontakt</string>
+    <string name="app_banner">The official app</string>
+    <string name="version">Version</string>
+    <string name="build">Build</string>
+    <string name="date">Build Date</string>
+    <string name="copyright">Copyright</string>
+    <string name="credits_copyright">©2016 Colin Ries</string>
+    <string name="about">Iwwer</string>
+    <string name="more">Méi</string>
+    <string name="homepageURL">LHCE.lu</string>
+    <string name="changes">Ännerungen</string>
+</resources>

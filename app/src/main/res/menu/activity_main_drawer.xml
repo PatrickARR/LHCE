@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_changes"
+            android:icon="@drawable/ic_changes"
+            android:title="@string/changes"/>
+        <item
+            android:id="@+id/nav_webuntis"
+            android:icon="@drawable/ic_webuntis"
+            android:title="@string/webuntis" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_contact"
+            android:title="@string/contact"/>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about"/>
+    </group>
+
+    <item android:title="@string/more">
+        <menu>
+            <item
+                android:id="@+id/nav_homepage"
+                android:icon="@drawable/ic_homepage"
+                android:title="@string/homepageURL" />
+        </menu>
+    </item>
+
+</menu>
