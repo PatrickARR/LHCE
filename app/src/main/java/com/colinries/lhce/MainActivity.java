@@ -88,6 +88,9 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_changes) {
             fragmentTransaction.replace(R.id.fragment_container, new ChangesFragment()).commit();
         }
+          else if (id == R.id.nav_lhcenews) {
+            fragmentTransaction.replace(R.id.fragment_container, new LHCENewsFragment()).commit();
+        }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         assert drawer != null;
