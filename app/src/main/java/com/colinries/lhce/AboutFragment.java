@@ -79,7 +79,6 @@ public class AboutFragment extends Fragment {
                         {getString(R.string.build), versionCode},
                         {getString(R.string.date), versionDate},
                         {getString(R.string.developer_label), getString(R.string.app_autor)},
-                        {getString(R.string.development_assistance), getString(R.string.development_assistance_name)},
                         {getString(R.string.copyright), getString(R.string.credits_copyright)}
                 };
 

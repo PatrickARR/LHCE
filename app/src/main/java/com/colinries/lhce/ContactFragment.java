@@ -77,8 +77,8 @@ public class ContactFragment extends Fragment {
                         {getString(R.string.VH_phone_number_text), getString(R.string.VH_phone_number)},
                         {getString(R.string.VH_address), getString(R.string.VH_street_number)+", "+getString(R.string.VH_zip_code_location)},
                         {getString(R.string.secretariat_email_label), getString(R.string.secretariat_email)},
-                        {getString(R.string.developer_label), getString(R.string.app_autor)},
-                        {getString(R.string.development_assistance), getString(R.string.development_assistance_name)}
+
+
                 };
         ArrayList<HashMap<String,String>> list = new ArrayList<HashMap<String,String>>();
 

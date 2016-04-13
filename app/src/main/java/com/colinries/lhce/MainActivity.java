@@ -13,7 +13,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -33,6 +32,10 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        FragmentManager fragmentManager = getSupportFragmentManager();
+        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+        fragmentTransaction.replace(R.id.fragment_container, new Home()).commit();
     }
 
     @Override
@@ -90,6 +93,9 @@ public class MainActivity extends AppCompatActivity
         }
           else if (id == R.id.nav_lhcenews) {
             fragmentTransaction.replace(R.id.fragment_container, new LHCENewsFragment()).commit();
+        }
+        else if (id == R.id.nav_schoulvakanzen) {
+            fragmentTransaction.replace(R.id.fragment_container, new SchoulvakanzenFragment()).commit();
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

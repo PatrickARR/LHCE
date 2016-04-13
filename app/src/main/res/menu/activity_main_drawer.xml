@@ -22,6 +22,10 @@
             android:id="@+id/nav_lhcenews"
             android:icon="@drawable/ic_lhcenews"
             android:title="@string/lhcenews"/>
+        <item
+            android:id="@+id/nav_schoulvakanzen"
+            android:icon="@drawable/ic_schoulvakanzen"
+            android:title="@string/schoulvakanzen"/>
     </group>
 
     <item android:title="@string/more">

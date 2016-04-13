@@ -26,7 +26,7 @@
     <string name="VH_street_number">91, rue Victor Hugo</string>
     <string name="VH_zip_code_location">L-4141 Esch-sur-Alzette</string>
     <string name="developer_label">Developer</string>
-    <string name="app_autor">Colin Ries</string>
+    <string name="app_autor">Colin Ries / Patrick Schroeder</string>
     <string name="development_assistance">Development Assistance</string>
     <string name="development_assistance_name">Patrick Schroeder</string>
     <string name="secretariat_email">secretariat@lhce.lu</string>
@@ -43,7 +43,14 @@
     <string name="homepageURL">LHCE.lu</string>
     <string name="changes">Ännerungen</string>
     <string name="lhcenews">News</string>
-    
-
+    <string name="schoulvakanzen">Schoulvakanzen</string>
+    <string name="Vakanz1">Ouschtervakanz</string>
+    <string name="Vakanz2">Summervakanz</string>
+    <string name="Vakanz3">Päischtvakanz</string>
+    <string name="Vakanz4">Chrëschtvakanz</string>
+    <string name="V1C">26. März 2016 en dash 10. April 2016</string>
+    <string name="V2C">16. Juli 2016 en dash 14. September 2016</string>
+    <string name="V3C">14. Mai 2016 en dash 22. Mai 2016</string>
+    <string name="V4C">19. Dezember 2015 en dash 3. Januar 2016</string>
 
 </resources>
