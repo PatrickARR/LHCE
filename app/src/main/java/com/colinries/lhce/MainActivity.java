@@ -86,6 +86,10 @@ public class MainActivity extends AppCompatActivity
             Uri uri = Uri.parse("http://www.lhce.lu");
             Intent intent = new Intent(Intent.ACTION_VIEW, uri);
             startActivity(intent);
+        } else if (id == R.id.nav_restopolis) {
+            Uri uri = Uri.parse("http://portal.education.lu/restopolis/");
+            Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+            startActivity(intent);
         } else if (id == R.id.nav_about) {
             fragmentTransaction.replace(R.id.fragment_container, new AboutFragment()).commit();
         } else if (id == R.id.nav_changes) {

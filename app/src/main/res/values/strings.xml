@@ -37,10 +37,11 @@
     <string name="build">Build</string>
     <string name="date">Build Date</string>
     <string name="copyright">Copyright</string>
-    <string name="credits_copyright">©2016 Colin Ries</string>
+    <string name="credits_copyright">©2016 LHCEApp</string>
     <string name="about">Iwwer</string>
     <string name="more">Méi</string>
     <string name="homepageURL">LHCE.lu</string>
+    <string name="restopolisURL">Restopolis.lu</string>
     <string name="changes">Ännerungen</string>
     <string name="lhcenews">News</string>
     <string name="schoulvakanzen">Schoulvakanzen</string>
@@ -48,9 +49,9 @@
     <string name="Vakanz2">Summervakanz</string>
     <string name="Vakanz3">Päischtvakanz</string>
     <string name="Vakanz4">Chrëschtvakanz</string>
-    <string name="V1C">26. März 2016 en dash 10. April 2016</string>
-    <string name="V2C">16. Juli 2016 en dash 14. September 2016</string>
-    <string name="V3C">14. Mai 2016 en dash 22. Mai 2016</string>
-    <string name="V4C">19. Dezember 2015 en dash 3. Januar 2016</string>
+    <string name="V1C">26. März 2016 - 10. April 2016</string>
+    <string name="V2C">16. Juli 2016 - 14. September 2016</string>
+    <string name="V3C">14. Mai 2016 - 22. Mai 2016</string>
+    <string name="V4C">19. Dezember 2015 - 3. Januar 2016</string>
 
 </resources>

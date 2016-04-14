@@ -3,6 +3,10 @@
 
     <group android:checkableBehavior="single">
         <item
+            android:id="@+id/nav_lhcenews"
+            android:icon="@drawable/ic_lhcenews"
+            android:title="@string/lhcenews"/>
+        <item
             android:id="@+id/nav_changes"
             android:icon="@drawable/ic_changes"
             android:title="@string/changes"/>
@@ -11,6 +15,10 @@
             android:icon="@drawable/ic_webuntis"
             android:title="@string/webuntis" />
         <item
+            android:id="@+id/nav_schoulvakanzen"
+            android:icon="@drawable/ic_schoulvakanzen"
+            android:title="@string/schoulvakanzen"/>
+        <item
             android:id="@+id/nav_contact"
             android:icon="@drawable/ic_contact"
             android:title="@string/contact"/>
@@ -18,14 +26,6 @@
             android:id="@+id/nav_about"
             android:icon="@drawable/ic_about"
             android:title="@string/about"/>
-        <item
-            android:id="@+id/nav_lhcenews"
-            android:icon="@drawable/ic_lhcenews"
-            android:title="@string/lhcenews"/>
-        <item
-            android:id="@+id/nav_schoulvakanzen"
-            android:icon="@drawable/ic_schoulvakanzen"
-            android:title="@string/schoulvakanzen"/>
     </group>
 
     <item android:title="@string/more">
@@ -34,6 +34,10 @@
                 android:id="@+id/nav_homepage"
                 android:icon="@drawable/ic_homepage"
                 android:title="@string/homepageURL" />
+            <item
+                android:id="@+id/nav_restopolis"
+                android:icon="@drawable/ic_restopolis"
+                android:title="@string/restopolisURL" />
         </menu>
     </item>
 
