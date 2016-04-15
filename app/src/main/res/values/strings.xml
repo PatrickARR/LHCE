@@ -49,9 +49,20 @@
     <string name="Vakanz2">Summervakanz</string>
     <string name="Vakanz3">Päischtvakanz</string>
     <string name="Vakanz4">Chrëschtvakanz</string>
+    <string name="Vakanz5">Allerhellegevakanz</string>
+    <string name="Vakanz6">Fuesvakanz</string>
+    <string name="Vakanz7">1 Mai</string>
+    <string name="Vakanz8">Christi Himmelfahrt</string>
+    <string name="Vakanz9">Nationalfeierdag</string>
     <string name="V1C">26. März 2016 - 10. April 2016</string>
     <string name="V2C">16. Juli 2016 - 14. September 2016</string>
     <string name="V3C">14. Mai 2016 - 22. Mai 2016</string>
     <string name="V4C">19. Dezember 2015 - 3. Januar 2016</string>
+    <string name="V5C">31. Oktober 2015 - 8. November 2015</string>
+    <string name="V6C">6. Februar 2016 -  14. Februar 2016</string>
+    <string name="V7C">1 Mai 2016</string>
+    <string name="V8C">5. Mai 2016</string>
+    <string name="V9C">23. Juni 2016</string>
+
 
 </resources>

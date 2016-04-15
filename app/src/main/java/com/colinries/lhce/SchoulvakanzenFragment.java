@@ -70,10 +70,17 @@ public class SchoulvakanzenFragment extends Fragment {
         ListView contactView = (ListView) layout.findViewById(R.id.tabell);
 
         String[][] listData =
-                {{getString(R.string.Vakanz4), getString(R.string.V4C)},
+                {       {getString(R.string.Vakanz5), getString(R.string.V5C)},
+                        {getString(R.string.Vakanz4), getString(R.string.V4C)},
+                        {getString(R.string.Vakanz6), getString(R.string.V6C)},
                         {getString(R.string.Vakanz1), getString(R.string.V1C)},
+                        {getString(R.string.Vakanz7), getString(R.string.V7C)},
+                        {getString(R.string.Vakanz8), getString(R.string.V8C)},
                         {getString(R.string.Vakanz3), getString(R.string.V3C)},
+                        {getString(R.string.Vakanz9), getString(R.string.V9C)},
                         {getString(R.string.Vakanz2), getString(R.string.V2C)},
+
+
 
 
 
